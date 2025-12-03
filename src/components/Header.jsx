@@ -14,7 +14,6 @@ export const Header = () => {
 				/>
 				<h1>Jerald Nyaga</h1>
 				<h3>Frontend Developer</h3>
-				<small>jeraldnyaga.io</small>
 				<div className="socials">
 					<Button
 						className="btn btn-email"
