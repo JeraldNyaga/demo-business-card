@@ -20,6 +20,7 @@ export const Header = () => {
 						className="btn btn-email"
 						img={Email}
 						logo_name="Email"
+						href="mailto:jeraldnyaga15@gmail.com?subject=Hello"
 					>
 						<span>Email</span>
 					</Button>
@@ -27,6 +28,7 @@ export const Header = () => {
 						className="btn btn-linkedIn"
 						img={LinkedIn}
 						logo_name="LinkedIn"
+						href="https://www.linkedin.com/in/jerald-nyaga-0185451b7/"
 					>
 						<span>LinkedIn</span>
 					</Button>
