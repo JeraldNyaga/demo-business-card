@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #343741;
+	color: #dcdcdc;
+	font-family: "Inter", sans-serif;
+}
+
+.container {
+	background-color: #070709;
+	margin: 2em auto;
+	padding: 0;
+	max-width: 400px;
+}
+.btn-linkedIn {
+	background-color: #5093e2;
+}
+.btn-email {
+	background-color: #fff;
+	margin-right: 17px;
+}
+.header {
+	text-align: center;
+}
+.header h1 {
+	font-weight: bold;
+	font-size: 1.5rem;
+	color: #fff;
+	margin-top: 1em;
+}
+.header h3 {
+	font-weight: normal;
+	color: #f3bf99;
+	font-size: 0.9rem;
+	margin-top: 0.5em;
+}
+.header small {
+	color: #f5f5f5;
+	font-size: 0.7rem;
+}
+.user {
+	display: block;
+	width: 100%;
+	height: 317px;
+}
+.main-comp {
+	margin: 0.5em 2em;
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0.7em;
+	padding: 15px 30px;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 14px;
+	line-height: 16px;
+	margin-top: 2em;
+	width: 158px;
+	margin-bottom: 2em;
+}
+.btn img {
+	height: 25px;
+	width: 25px;
+}
+.btn-linkedIn {
+	color: #fff;
+}
+.btn-email {
+	color: #1e1f26;
+}
+.socials {
+	display: flex;
+	justify-content: center;
+}
+
+.main-comp p {
+	text-align: justify;
+	margin-bottom: 0.8em;
+}
+
+.main-comp h2 {
+	font-size: 1.6em;
+	margin-bottom: 0.4em;
+}
